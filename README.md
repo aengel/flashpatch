@@ -8,7 +8,7 @@ https://gist.github.com/KuromeSan/56d8b724c0696b54f9f81994ae3591d1
 
 Unfortunately, I only found patchers for the timebomb that were written in .NET.
 Now I definitely don't want to pollute my system with .NET Framework and the patcher above didn't even work properly on Windows XP.
-So I decided to write my own little patcher that is just a tiny executable wihout any dependencies.
+So I decided to write my own little patcher that is just a tiny executable without any dependencies.
 It is based on the work mentioned above.
 
 # How to use?
